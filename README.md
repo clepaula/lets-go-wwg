@@ -1,1 +1,1 @@
-"#lets-go-wwg iniciaá∆o Go" 
+"#lets-go-wwg inicia√ß√£o em Go" 
